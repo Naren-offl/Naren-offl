@@ -15,6 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<h1 align="center">Hi 👋, I'm Narendhar C</h1>
+<h3 align="center">A passionate Fullstack developer</h3>
+<a href="https://naren-offl.github.io/portfolio/"><h3>Portfolio</h3></a>
+<p>https://naren-offl.github.io/portfolio/</p>
+- 🌱 I’m currently learning **System Design**
+
+- 💬 Ask me about **REACT JS, NODE JS, MONGODBt**
+
+- 📫 How to reach me **cnarendhar19@gmail.com**
+
+- 📄 Know about my Resume [Resume Link](https://github.com/Naren-offl/Resume/blob/main/naren-resume%20(2).pdf)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Naren-offl&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Naren-offl" style="padding-right:20px;" />
+</p>
+
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
