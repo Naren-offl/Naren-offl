@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Narendhar C</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-<a href="[https://naren-offl.github.io/portfolio/](https://naren-offl.github.io/Portfolio/)"><h3>Portfolio</h3></a>
+<a href="https://naren-offl.github.io/Portfolio/"><h3>Portfolio</h3></a>
 <p>https://naren-offl.github.io/portfolio/</p>
 - 🌱 I’m currently learning **System Design**
 
